@@ -54,7 +54,7 @@ img {
 
 h3 {
     font-size: 40px;
-    margin-bottom: 15px;
+    margin-bottom: 9px;
 }
 
 a {
@@ -86,8 +86,12 @@ a {
     }
 
     .title {
-        color: yellowgreen;
-        font-size: 43px;
+        font-size: 40px;
+    }
+
+    .text-content {
+        font-size: 18px;
+        word-spacing: 5px;
     }
 
     .links ul, li, a {
@@ -96,5 +100,14 @@ a {
 
     h3 {
         font-size: 30px;
+    }
+
+    .profile-image img {
+        width: 200px;
+        height: 200px;
+    }
+
+    .footer-text {
+        font-size: 15px;
     }
 }
