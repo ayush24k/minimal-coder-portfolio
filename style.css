@@ -55,7 +55,7 @@ img {
     margin-bottom: 10px;
 }
 
-.project-links {
+.project-links li {
     list-style: none;
     font-size: 20px;
 }
@@ -67,7 +67,7 @@ h3 {
 
 a {
     text-decoration: none;
-    font-size: 25px;
+    font-size: 20px;
     color: greenyellow;
 }
 
